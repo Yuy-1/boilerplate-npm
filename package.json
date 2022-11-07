@@ -4,6 +4,7 @@
   	"description": "portfolio piece",
   	"keywords": [ "freecodecamp", "related", "words" ],
   	"license": "NA",
+	"version": "8.19.2"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
