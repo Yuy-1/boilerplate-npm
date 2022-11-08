@@ -6,7 +6,6 @@
   	"license": "NA",
 	"version": "8.19.2",
 	"dependencies": {
-		"@freecodecamp/example": "^1.2.13",
 		"express": "^4.18.2"
 	},
 	"main": "server.js",
